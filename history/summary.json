@@ -4,19 +4,19 @@
     "url": "https://analmusk.com",
     "icon": "https://favicons.githubusercontent.com/analmusk.com",
     "slug": "anal-site",
-    "status": "down",
-    "uptime": "5.46%",
-    "uptimeDay": "5.46%",
-    "uptimeWeek": "5.46%",
-    "uptimeMonth": "5.46%",
-    "uptimeYear": "5.46%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "status": "up",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 36
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://alanmusk.com",
     "icon": "https://favicons.githubusercontent.com/alanmusk.com",
     "slug": "alan-site",
-    "status": "down",
-    "uptime": "1.70%",
-    "uptimeDay": "1.70%",
-    "uptimeWeek": "1.70%",
-    "uptimeMonth": "1.70%",
-    "uptimeYear": "1.70%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "status": "up",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 36
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.analmusk.com/api-docs/",
     "icon": "https://favicons.githubusercontent.com/api.analmusk.com",
     "slug": "anal-api",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 99,
-    "timeDay": 99,
-    "timeWeek": 99,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "status": "up",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
+    "time": 222,
+    "timeDay": 222,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 36
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://cdn.analmusk.com",
     "icon": "https://favicons.githubusercontent.com/cdn.analmusk.com",
     "slug": "anal-cdn",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "status": "up",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-04": 36
     }
   }
 ]
