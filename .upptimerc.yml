@@ -24,7 +24,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
-  footer: © <!-- -->2022<!-- --> AlanMusk
+  footer: "© <!-- -->2022<!-- --> AnalMusk"
 
 workflowSchedule:
   graphs: "0 0 * * *"
