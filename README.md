@@ -1,6 +1,6 @@
 # [📈 Live Status](https://health.analmusk.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Anal Musk](https://health.analmusk.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Anal Musk](https://health.analmusk.com)
 
 [![Uptime CI](https://github.com/analmusk/health/workflows/Uptime%20CI/badge.svg)](https://github.com/analmusk/health/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/analmusk/health/workflows/Response%20Time%20CI/badge.svg)](https://github.com/analmusk/health/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,6 +27,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Anal Musk](https://health.analmusk.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
