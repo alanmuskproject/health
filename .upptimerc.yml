@@ -24,7 +24,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: © <!-- -->2022<!-- --> AlanMusk
 
 workflowSchedule:
   graphs: "0 0 * * *"
