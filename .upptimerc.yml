@@ -10,7 +10,7 @@ sites:
     url: https://cdn.analmusk.com
 
 status-website:
-  cname: health.analmusk.com
+  cname: health.alanmusk.com
   logoUrl: https://alanmusk.com/assets/logo.svg
   name: Alan Health
   introTitle: "**AlanMusk** health page."
