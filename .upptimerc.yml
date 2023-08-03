@@ -1,22 +1,20 @@
-owner: analmusk
+owner: alanmuskproject
 repo: health
 
 sites:
-  - name: Anal Site
-    url: https://analmusk.com
   - name: Alan Site
     url: https://alanmusk.com
-  - name: Anal API
+  - name: Alan API
     url: https://api.analmusk.com/api-docs/
-  - name: Anal CDN
+  - name: Alan CDN
     url: https://cdn.analmusk.com
 
 status-website:
   cname: health.analmusk.com
-  logoUrl: https://analmusk.com/assets/logo.svg
-  name: Anal Health
-  introTitle: "**AnalMusk** health page."
-  introMessage: Status page for AnalMusk
+  logoUrl: https://alanmusk.com/assets/logo.svg
+  name: Alan Health
+  introTitle: "**AlanMusk** health page."
+  introMessage: Status page for AlanMusk
   navbar:
     - title: Status
       href: /
@@ -24,7 +22,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
-  footer: "© <!-- -->2022<!-- --> AnalMusk"
+  footer: "© <!-- -->2022<!-- --> AlanMusk"
 
 workflowSchedule:
   graphs: "0 0 * * *"
