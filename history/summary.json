@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.84%",
     "time": 337,
-    "timeDay": 364,
-    "timeWeek": 396,
-    "timeMonth": 461,
+    "timeDay": 0,
+    "timeWeek": 405,
+    "timeMonth": 457,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2022-11-07": 561,
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 191,
-    "timeWeek": 207,
-    "timeMonth": 236,
+    "timeDay": 216,
+    "timeWeek": 209,
+    "timeMonth": 235,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -72,19 +72,19 @@
     "url": "https://cdn.analmusk.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.analmusk.com.ico",
     "slug": "alan-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 174,
-    "timeWeek": 254,
-    "timeMonth": 433,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 439,
+    "timeDay": 191,
+    "timeWeek": 257,
+    "timeMonth": 418,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-09-22": 1
+      "2023-09-22": 19
     }
   }
 ]
