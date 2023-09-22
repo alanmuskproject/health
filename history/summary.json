@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alanmusk.com.ico",
     "slug": "alan-site",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -72,17 +72,19 @@
     "url": "https://cdn.analmusk.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.analmusk.com.ico",
     "slug": "alan-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 236,
-    "timeWeek": 275,
-    "timeMonth": 443,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "time": 442,
+    "timeDay": 174,
+    "timeWeek": 254,
+    "timeMonth": 433,
+    "timeYear": 442,
+    "dailyMinutesDown": {
+      "2023-09-22": 1
+    }
   }
 ]
