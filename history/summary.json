@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alanmusk.com.ico",
     "slug": "alan-site",
     "status": "up",
-    "uptime": "92.58%",
+    "uptime": "92.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.24%",
+    "uptimeYear": "92.51%",
     "time": 335,
-    "timeDay": 548,
-    "timeWeek": 529,
-    "timeMonth": 448,
-    "timeYear": 334,
+    "timeDay": 555,
+    "timeWeek": 547,
+    "timeMonth": 454,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2022-11-07": 561,
       "2022-11-06": 1440,
@@ -42,8 +42,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   },
   {
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 249,
-    "timeWeek": 255,
+    "time": 232,
+    "timeDay": 260,
+    "timeWeek": 261,
     "timeMonth": 232,
-    "timeYear": 231,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -76,8 +75,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 408,
-    "timeDay": 380,
-    "timeWeek": 330,
+    "timeDay": 387,
+    "timeWeek": 353,
     "timeMonth": 311,
     "timeYear": 408,
     "dailyMinutesDown": {
