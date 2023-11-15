@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alanmusk.com.ico",
     "slug": "alan-site",
     "status": "up",
-    "uptime": "93.15%",
+    "uptime": "93.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -22,10 +22,10 @@
     "url": "https://api.analmusk.com/api-docs/",
     "icon": "https://icons.duckduckgo.com/ip3/api.analmusk.com.ico",
     "slug": "alan-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
@@ -33,7 +33,9 @@
     "timeWeek": 243,
     "timeMonth": 258,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 1
+    }
   },
   {
     "name": "Alan CDN",
