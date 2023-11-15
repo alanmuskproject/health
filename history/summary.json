@@ -22,19 +22,19 @@
     "url": "https://api.analmusk.com/api-docs/",
     "icon": "https://icons.duckduckgo.com/ip3/api.analmusk.com.ico",
     "slug": "alan-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 229,
+    "timeDay": 238,
     "timeWeek": 243,
-    "timeMonth": 258,
+    "timeMonth": 257,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-11-15": 1
+      "2023-11-15": 8
     }
   },
   {
